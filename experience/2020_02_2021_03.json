@@ -1,0 +1,19 @@
+{
+  "title": "Backend Developer",
+  "description": "I participated in the Fast Track program at Compasso, gaining skills in REST API development with Java and Spring Boot. At Livelo, I contributed to the backoffice, collaborating on the construction of the management system for B2B partners. I performed integrations with AWS services such as S3, SNS, and SQS, and utilized RabbitMQ and Keycloak for messaging and authentication, respectively.",
+  "startDate": "02/20",
+  "endDate": "04/21",
+  "primaryLanguage": "java",
+  "technologies": [
+    "Java",
+    "Spring Boot",
+    "REST APIs",
+    "OracleDB",
+    "RabbitMQ",
+    "AWS",
+    "S3",
+    "SNS",
+    "SQS",
+    "Keycloak"
+  ]
+}
